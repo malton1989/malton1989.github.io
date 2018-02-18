@@ -19,7 +19,7 @@ $(document).ready(function () {
 $("#top").lettering();
 $("#bottom").lettering();
 
-   var slideWidth = 750;  //Ширина одного слайда
+   var slideWidth = 900;  //Ширина одного слайда
     var slideTimer;        //Интервал смены кадров
  
     /*Устанавливаем ширину списка
